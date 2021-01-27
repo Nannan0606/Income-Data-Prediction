@@ -1,9 +1,8 @@
 # Machine Learning Algorithms on Census Income Data Prediction
 
 ## Tool and Resources Used 
-**R Studio:**   
+**R Studio**   
 **Packages:** ggplot2, plyr, gridExtra, gmodels, grid, vcd, scales, ggthemes, knitr, readxl, funModeling, Hmisc, skimr
-
 **Data Sources:** 
 https://archive.ics.uci.edu/ml/datasets/census+income
 
