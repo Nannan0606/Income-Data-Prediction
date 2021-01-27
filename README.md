@@ -2,7 +2,7 @@
 
 ## Tool and Resources Used 
 **R Studio**   
-**Packages:** ggplot2, plyr, gridExtra, gmodels, grid, vcd, scales, ggthemes, knitr, readxl, funModeling, Hmisc, skimr         
+**Packages:** ggplot2, plyr, gridExtra, gmodels, grid, vcd, scales, ggthemes, knitr, readxl, funModeling, Hmisc, skimr, corrgram, openxlsx, GGally, InformationValue, pROC, MLmetrics, randomForest, dplyr, caret, ROCR, rpart, rpart.plot, kernlab    
 **Data Sources:** 
 https://archive.ics.uci.edu/ml/datasets/census+income
 
