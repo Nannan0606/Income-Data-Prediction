@@ -1,9 +1,10 @@
 # Machine Learning Algorithms on Census Income Data Prediction
 
-## Code and Resources Used 
-**R Version:** 3.7  
+## Tool and Resources Used 
+**R Studio:**   
 **Packages:** ggplot2, plyr, gridExtra, gmodels, grid, vcd, scales, ggthemes, knitr, readxl, funModeling, Hmisc, skimr
-**Data Sources:** https://archive.ics.uci.edu/ml/datasets/census+income
+**Data Sources:** 
+https://archive.ics.uci.edu/ml/datasets/census+income
 
 ## Problem and Goal
 The problem of income inequality has become a part of a huge concern for everyone in the world. The purpose of this project is two fold. First, construct a model that can predict whether an individual’s annual income is lesser or greater than $50,000 dollars, based on given attributes, and provide a solution to the income inequality problem by using machine learning and data mining techniques. And second, perform a comprehensive analysis to find out the key factors that are essential in benefiting the population's income in general.
@@ -30,7 +31,7 @@ Based on the given attributes, a new column was created to determine whether an 
 *	**Splitting**
 *	**Handling Missing Values**
 
-## Exploratory Data Analysis and Findings
+## Exploratory Data Analysis
 
 ## Correlation Matrix
 *	**Income and Age**
@@ -46,13 +47,13 @@ Based on the given attributes, a new column was created to determine whether an 
 ## Evaluation and Comparisons
 *	**Accuracy**
 *	**Root Mean Square Error(RMSE)**
-*	**F1 Score **
+*	**F1 Score**
 *	**AUC Curve**
-*	**ROC Curve **
+*	**ROC Curve**
 *	**Confusion Matrix**
 *	**Precision**
-*	**Specificity **
-*	**Computational Time **
+*	**Specificity**
+*	**Computational Time**
 
 In conclusion, we used several Machine Learning models and concluded with an accuracy of 86.3%, RMSE of .370, precision of .932, specificity of .761, sensitivity of .890 and F1 Score of .105 with random forest and maximum AUC of .913. 
 
